@@ -3,7 +3,7 @@
 ---
 In my family’s home we use the Apple TV console and remote. Typically we find all Apple products to be seemingly easy to use and consistent with each other. We made the switch to Apple TV from AT&T. The Apple TV remote is very unique, mainly due to its small size, lack of many usual buttons, and the use of a trackpad. 
 
-![alt text]
+![AT&T remote]
 
 Because the Apple TV has very few buttons, and a trackpad, the **learnability** was very quick. When using a TV remote, my goal is to be able to easily switch from app to app, channel to channel, navigate to the main menu, navigate to my library, go back, etc.. Typically, remotes become something a typical user (me) can use without looking at each button for every command. 
 
