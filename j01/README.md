@@ -9,7 +9,7 @@ Below is our previous AT&T remote:
 Below is our current Apple TV remote: 
 ![Apple TV remote](https://m.media-amazon.com/images/I/51Y52JdxVgS.jpg)
 
-Because the Apple TV has very few buttons, and a trackpad, the **learnability** was very quick. When using a TV remote, my goal is to be able to easily switch from app to app, channel to channel, navigate to the main menu, navigate to my library, go back, etc.. Typically, remotes become something a typical user (me) can use without looking at each button for every command. 
+Because the Apple TV has very few buttons, and a trackpad, the **learnability** was very quick. When using a TV remote, my goal is to be able to easily switch from app to app, channel to channel, navigate to the main menu, navigate to my library, go back, etc.. Typically, remotes become something a typical user (me) can use without looking at, thanks to muscle memory.
 
 However, the Apple TV remote fails the user with the button named “Menu”. The Apple TV remote has poor **consistency and standards** here. Typically, with a remote or ‘menu’ command, the user expects to be taken to the main menu, or a home screen. This is not the case for the Apple TV “Menu” button. When first using the remote while being inside an app, I expected the “Menu” button to take me to said app’s menu or sidebar. In reality, I was just taken back a step to the field I was previously in. The “Menu” button actually only acts as a “back” button. In most cases, with competing remotes the back button is illustrated as a curved arrow, signifying moving back one step, or simply the word “back”.  
 
